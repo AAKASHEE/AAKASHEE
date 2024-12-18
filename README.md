@@ -10,8 +10,8 @@
 AAKASHEE/AAKASHEE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p align="center"
-    <<img src="https://skillicons.dev/icons?i=,html5,css3,js,ts,nextjs,react,go,mongodb,postgres"/> 
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=,html5,css3,js,ts,nextjs,react,go,mongodb,postgres"/> 
     <img src="https://skillicons.dev/icons?i=git,github-actions,github"/>
     <img src="https://skillicons.dev/icons?i=cpp,python,java"/>
     </p>
