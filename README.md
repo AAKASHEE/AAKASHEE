@@ -14,6 +14,5 @@ You can click the Preview link to take a look at your changes.
     <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,go,mongodb,postgres"/> 
     <img src="https://skillicons.dev/icons?i=git,github"/>
     <img src="https://skillicons.dev/icons?i=cpp,python,java"/>
-     
-    </p>
+     </p>
 
