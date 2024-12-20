@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
      <img src="https://skillicons.dev/icons?i=cpp,python,java"/>
-    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,go,mongodb,postgres"/> 
+    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,go,mysql,mongodb,postgres"/> 
     <img src="https://skillicons.dev/icons?i=git,github"/>
    </p>
 
