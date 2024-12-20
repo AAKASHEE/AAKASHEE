@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AAKASHEE
-- 👀 I’m interested in competetive Programming,ML and micrservices
+- 👀 I’m into competetive Programming as well as interested in ML and micrservices
 - 🌱 I’m currently learning  web dev 
 - 📫 How to reach me
 - linkedin:https://www.linkedin.com/in/aakashee/
