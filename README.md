@@ -2,7 +2,7 @@
 - 👀 I’m into competetive Programming as well as interested in ML and micrservices
 - 🌱 I’m currently learning  web dev 
 - 📫 How to reach me
-- linkedin:https://www.linkedin.com/in/aakashee/
+- linkedin:https://www.linkedin.com/in/aakashe/
 - instagram:https://www.instagram.com/aakaas.he/
 - ⚡ Fun fact: Nobody learns all,jst go with the flow of learning something new
 
